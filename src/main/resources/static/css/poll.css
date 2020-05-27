@@ -1,0 +1,35 @@
+
+  
+  
+.starrr {
+  display: inline-block; }
+ .starrr a {
+    font-size: 16px;
+    padding: 0 1px;
+    cursor: pointer;
+    color: gray;
+    text-decoration: none; }
+ 
+ a.grey{
+     color: grey;
+     
+     
+ }
+ a.yellow{
+     
+     color: gold;
+ }
+ 
+ 
+ .fullpage{
+height: 100vh;
+background-image: url(../img/grey_background.jpg);
+color: white;
+}
+
+.nolink{
+
+    text-decoration: none !important;
+    
+}
+
